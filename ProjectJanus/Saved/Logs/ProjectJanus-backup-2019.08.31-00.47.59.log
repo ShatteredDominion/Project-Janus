@@ -1,0 +1,1136 @@
+﻿Log file open, 08/30/19 20:45:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectJanus
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.157347
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.31-00.45.58:868][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.31-00.45.58:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:869][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:884][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.31-00.45.58:884][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.31-00.45.58:884][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.31-00.45.58:884][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.31-00.45.58:885][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.31-00.45.58:885][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.31-00.45.58:893][  0]LogHAL: Display: Platform has ~ 16 GB [17129349120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.31-00.45.58:893][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.31-00.45.58:893][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.31-00.45.58:893][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Scalability.ini]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.31-00.45.58:894][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Config/Windows/Engine.ini]
+[2019.08.31-00.45.58:894][  0]LogInit: Computer: TERROR-PC
+[2019.08.31-00.45.58:894][  0]LogInit: User: Terror
+[2019.08.31-00.45.58:894][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.31-00.45.58:894][  0]LogInit: High frequency timer resolution =3.417998 MHz
+[2019.08.31-00.45.58:895][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.08.31-00.45.58:895][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.31-00.45.58:895][  0]LogMemory: Process Physical Memory: 97.47 MB used, 97.47 MB peak
+[2019.08.31-00.45.58:895][  0]LogMemory: Process Virtual Memory: 94.10 MB used, 94.10 MB peak
+[2019.08.31-00.45.58:895][  0]LogMemory: Physical Memory: 4420.17 MB used,  11915.65 MB free, 16335.82 MB total
+[2019.08.31-00.45.58:895][  0]LogMemory: Virtual Memory: 509.34 MB used,  8388098.50 MB free, 8388608.00 MB total
+[2019.08.31-00.45.58:917][  0]LogInit: Using OS detected language (en-US).
+[2019.08.31-00.45.58:917][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.31-00.45.58:917][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.31-00.45.59:098][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.08.31-00.45.59:098][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.08.31-00.45.59:098][  0]LogInit: Setting process to DPI aware
+[2019.08.31-00.45.59:126][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.31-00.45.59:126][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.31-00.45.59:264][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.31-00.45.59:264][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.31-00.45.59:290][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.08.31-00.45.59:290][  0]LogD3D11RHI:       3975/0/7911 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.08.31-00.45.59:290][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.31-00.45.59:294][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.31-00.45.59:294][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.31-00.45.59:294][  0]LogWindows: EnumDisplayDevices:
+[2019.08.31-00.45.59:294][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.08.31-00.45.59:294][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.08.31-00.45.59:295][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.08.31-00.45.59:295][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.08.31-00.45.59:295][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.08.31-00.45.59:295][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.08.31-00.45.59:295][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.08.31-00.45.59:295][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.31-00.45.59:295][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.08.31-00.45.59:295][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.08.31-00.45.59:295][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.08.31-00.45.59:295][  0]LogRHI: Texture pool is 2783 MB (70% of 3975 MB)
+[2019.08.31-00.45.59:310][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.31-00.45.59:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.31-00.45.59:318][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.31-00.45.59:318][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.31-00.45.59:329][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.31-00.45.59:589][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.31-00.45.59:603][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.31-00.45.59:615][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.31-00.45.59:628][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.31-00.45.59:641][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.31-00.45.59:656][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.31-00.45.59:670][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.31-00.45.59:684][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.31-00.45.59:691][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.31-00.45.59:770][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.31-00.45.59:771][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.31-00.45.59:818][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.31-00.45.59:818][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.31-00.45.59:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.31-00.45.59:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.31-00.45.59:855][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.31-00.45.59:868][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.31-00.45.59:879][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.31-00.45.59:892][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.31-00.45.59:936][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.31-00.45.59:936][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.31-00.45.59:936][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.31-00.45.59:942][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.31-00.45.59:977][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Intermediate/Shaders/WorkingDirectory/1852/).
+[2019.08.31-00.45.59:977][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Terror/AppData/Local/Temp/UnrealShaderWorkingDir/445FD3484A46C4463AB2D1B396D2DA3B/'.
+[2019.08.31-00.45.59:979][  0]LogXGEController: Cleaning working directory: C:/Users/Terror/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.31-00.45.59:979][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.31-00.45.59:979][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.31-00.45.59:979][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.31-00.46.00:529][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.31-00.46.00:595][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Terror/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.31-00.46.00:595][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Terror/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.31-00.46.00:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.31-00.46.00:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.31-00.46.00:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.31-00.46.00:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.31-00.46.00:607][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.31-00.46.00:607][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.31-00.46.00:607][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.31-00.46.00:618][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Terror/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.31-00.46.00:618][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.31-00.46.00:618][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.31-00.46.00:641][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.31-00.46.00:642][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.31-00.46.00:642][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.31-00.46.00:717][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2019.08.31-00.46.01:029][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.31-00.46.01:163][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.31-00.46.01:163][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.31-00.46.01:163][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.31-00.46.01:163][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.31-00.46.01:163][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.31-00.46.01:175][  0]LogNetVersion: ProjectJanus 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1487133140)
+[2019.08.31-00.46.01:578][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.028581 seconds
+[2019.08.31-00.46.01:585][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.31-00.46.01:585][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.31-00.46.01:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.31-00.46.02:330][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.31-00.46.02:341][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.31-00.46.02:458][  0]SourceControl: Source control is disabled
+[2019.08.31-00.46.02:458][  0]SourceControl: Source control is disabled
+[2019.08.31-00.46.02:459][  0]SourceControl: Source control is disabled
+[2019.08.31-00.46.02:460][  0]SourceControl: Source control is disabled
+[2019.08.31-00.46.02:466][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.31-00.46.02:467][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.31-00.46.02:522][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.31-00.46.02:582][  0]LogOcInput: OculusInput pre-init called
+[2019.08.31-00.46.03:172][  0]LogEngine: Initializing Engine...
+[2019.08.31-00.46.03:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.31-00.46.03:173][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.31-00.46.03:418][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.31-00.46.03:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.31-00.46.03:450][  0]LogInit: XAudio2 using 'Speakers (RIG 800HS)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.31-00.46.03:456][  0]LogInit: FAudioDevice initialized.
+[2019.08.31-00.46.03:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.31-00.46.03:532][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Terror/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.31-00.46.03:538][  0]LogInit: Texture streaming: Enabled
+[2019.08.31-00.46.03:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.31-00.46.03:566][  0]LogInit: Transaction tracking system initialized
+[2019.08.31-00.46.03:582][  0]BlueprintLog: New page: Editor Load
+[2019.08.31-00.46.03:650][  0]LocalizationService: Localization service is disabled
+[2019.08.31-00.46.03:758][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.31-00.46.03:758][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.31-00.46.03:926][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/' took 0.01s
+[2019.08.31-00.46.03:926][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.31-00.46.03:926][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.31-00.46.04:088][  0]SourceControl: Source control is disabled
+[2019.08.31-00.46.04:089][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.31-00.46.04:089][  0]LightingResults: New page: Lighting Build
+[2019.08.31-00.46.04:091][  0]MapCheck: New page: Map Check
+[2019.08.31-00.46.04:091][  0]LightingResults: New page: Lighting Build
+[2019.08.31-00.46.04:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.08.31-00.46.04:365][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.31-00.46.04:387][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.31-00.46.04:412][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.08.31-00.46.04:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.31-00.46.04:412][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.08.31-00.46.04:412][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.324
+[2019.08.31-00.46.04:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.31-00.46.04:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.31-00.46.04:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.31-00.46.04:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.31-00.46.04:532][  0]LogCollectionManager: Loaded 0 collections in 0.001523 seconds
+[2019.08.31-00.46.04:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Collections/' took 0.01s
+[2019.08.31-00.46.04:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Developers/Terror/Collections/' took 0.01s
+[2019.08.31-00.46.04:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Collections/' took 0.01s
+[2019.08.31-00.46.04:568][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.31-00.46.04:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2741 classes and 672 folders.
+[2019.08.31-00.46.04:585][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.31-00.46.04:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.31-00.46.04:614][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.31-00.46.04:619][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.31-00.46.04:683][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.31-00.46.04:684][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.31-00.46.04:688][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.31-00.46.04:751][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.08.31-00.46.04:861][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.31-00.46.04:966][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.31-00.46.04:967][  0]LogLoad: (Engine Initialization) Total time: 7.24 seconds
+[2019.08.31-00.46.04:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.31-00.46.05:018][  0]LogAssetRegistry: Asset discovery search completed in 4.3210 seconds
+[2019.08.31-00.46.05:020][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.31-00.46.05:020][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.08.31-00.46.05:021][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.31-00.46.06:155][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.31-00.46.21:411][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.31-00.46.22:266][  4]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2019.08.31-00.46.22:268][  4]LogConcert: [Success] Launched Unreal Multi-User Server
+[2019.08.31-00.46.47:123][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.31-00.46.53:631][152]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.31-00.46.53:723][152]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.31-00.47.03:430][165]LogSlate: Window 'Extract sprites' being destroyed
+[2019.08.31-00.47.09:539][795]LogSlate: Window 'Source Control Login' being destroyed
+[2019.08.31-00.47.14:402][321]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.08.31-00.47.14:477][321]EditorErrors: Warning: No assets to check in!
+[2019.08.31-00.47.26:551][700]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.08.31-00.47.26:620][700]EditorErrors: Warning: No assets to check in!
+[2019.08.31-00.47.44:656][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.08.31-00.47.48:546][ 14]LogSlate: Window 'Save Content' being destroyed
+[2019.08.31-00.47.48:684][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1.uasset" SILENT=true
+[2019.08.31-00.47.48:696][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1A5F095E24D43F15AF6DA53A54F2DCD12.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1.uasset'
+[2019.08.31-00.47.48:709][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_0" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_0.uasset" SILENT=true
+[2019.08.31-00.47.48:714][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_0DB04179F4BD0DD4A54345F84A87572CB.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_0.uasset'
+[2019.08.31-00.47.48:786][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_1" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_1.uasset" SILENT=true
+[2019.08.31-00.47.48:791][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_113CD06BD4CA75B6DA4FE94BA46873311.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_1.uasset'
+[2019.08.31-00.47.48:861][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_10" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_10.uasset" SILENT=true
+[2019.08.31-00.47.48:865][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_10746055A34357EEC387BB8BA592076C15.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_10.uasset'
+[2019.08.31-00.47.48:939][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_11" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_11.uasset" SILENT=true
+[2019.08.31-00.47.48:943][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_113186B4CE414F07B35054318861599AF7.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_11.uasset'
+[2019.08.31-00.47.49:010][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_12" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_12.uasset" SILENT=true
+[2019.08.31-00.47.49:014][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_1225EC931F4A289F8D0215D2AB7CFA7C93.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_12.uasset'
+[2019.08.31-00.47.49:085][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_13" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_13.uasset" SILENT=true
+[2019.08.31-00.47.49:090][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_13933F30A34DBACB2E33B799A44CE5FF9C.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_13.uasset'
+[2019.08.31-00.47.49:160][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_14" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_14.uasset" SILENT=true
+[2019.08.31-00.47.49:165][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_14C96B75BC477B67D394EE349AA6FCB714.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_14.uasset'
+[2019.08.31-00.47.49:226][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_15" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_15.uasset" SILENT=true
+[2019.08.31-00.47.49:231][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_1501A83852430087A472CC279F4547D163.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_15.uasset'
+[2019.08.31-00.47.49:303][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_16" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_16.uasset" SILENT=true
+[2019.08.31-00.47.49:309][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_16B8BB934F4663AA8B853CF486F609F9CE.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_16.uasset'
+[2019.08.31-00.47.49:376][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_17" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_17.uasset" SILENT=true
+[2019.08.31-00.47.49:381][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_17A897124D4A581D09F841BD8E11239C0A.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_17.uasset'
+[2019.08.31-00.47.49:446][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_18" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_18.uasset" SILENT=true
+[2019.08.31-00.47.49:450][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_18F2691B184D7F673A052CB091B8289E8C.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_18.uasset'
+[2019.08.31-00.47.49:519][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_19" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_19.uasset" SILENT=true
+[2019.08.31-00.47.49:524][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_1945920E494F2EF13499B1F6BB7245C09D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_19.uasset'
+[2019.08.31-00.47.49:591][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_2" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_2.uasset" SILENT=true
+[2019.08.31-00.47.49:596][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_2876C3ADB43FD3C8E70F59C9590D73B89.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_2.uasset'
+[2019.08.31-00.47.49:659][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_20" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_20.uasset" SILENT=true
+[2019.08.31-00.47.49:664][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_20FE3797AA4EFA361CC9FB49A2E2D9B443.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_20.uasset'
+[2019.08.31-00.47.49:728][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_21" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_21.uasset" SILENT=true
+[2019.08.31-00.47.49:733][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_2149CD1C67496F2D0B4BA2B79ABF1DDB04.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_21.uasset'
+[2019.08.31-00.47.49:793][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_22" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_22.uasset" SILENT=true
+[2019.08.31-00.47.49:798][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_22B8F4DE4041AFE5DEAEACC1B5CD266CE6.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_22.uasset'
+[2019.08.31-00.47.49:858][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_23" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_23.uasset" SILENT=true
+[2019.08.31-00.47.49:863][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_2333996CA44A504B3995CB22A1BA6BBF98.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_23.uasset'
+[2019.08.31-00.47.49:926][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_24" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_24.uasset" SILENT=true
+[2019.08.31-00.47.49:931][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_2409E0B1F74DF026E7850F9AA73365FEC8.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_24.uasset'
+[2019.08.31-00.47.50:003][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_25" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_25.uasset" SILENT=true
+[2019.08.31-00.47.50:008][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_257F3A5B42431EBA281FDEA0B054EBAF21.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_25.uasset'
+[2019.08.31-00.47.50:077][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_26" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_26.uasset" SILENT=true
+[2019.08.31-00.47.50:081][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_26DF6217874419C22F05887C8F4B8FB6E7.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_26.uasset'
+[2019.08.31-00.47.50:144][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_27" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_27.uasset" SILENT=true
+[2019.08.31-00.47.50:148][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_27438F61764A806918B75432BABD239B68.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_27.uasset'
+[2019.08.31-00.47.50:219][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_28" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_28.uasset" SILENT=true
+[2019.08.31-00.47.50:224][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_28AC65D62945E0F17C89DB789963C1F92D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_28.uasset'
+[2019.08.31-00.47.50:295][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_29" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_29.uasset" SILENT=true
+[2019.08.31-00.47.50:299][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_2976679CF6456F8A258647B386C836EE69.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_29.uasset'
+[2019.08.31-00.47.50:372][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_3" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_3.uasset" SILENT=true
+[2019.08.31-00.47.50:377][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_368DA40324861E6B79A58EC88182B0044.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_3.uasset'
+[2019.08.31-00.47.50:443][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_30" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_30.uasset" SILENT=true
+[2019.08.31-00.47.50:448][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_305404BD9D4A11285004B1958D0597525B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_30.uasset'
+[2019.08.31-00.47.50:508][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_31" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_31.uasset" SILENT=true
+[2019.08.31-00.47.50:513][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_31653E142842FB32616DBA4D8BFEB1BE23.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_31.uasset'
+[2019.08.31-00.47.50:580][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_32" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_32.uasset" SILENT=true
+[2019.08.31-00.47.50:585][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_324AED9AA042E4532DD75A4282657D8747.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_32.uasset'
+[2019.08.31-00.47.50:652][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_33" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_33.uasset" SILENT=true
+[2019.08.31-00.47.50:656][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_3382D0B44341A0080B618676B04904AAA1.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_33.uasset'
+[2019.08.31-00.47.50:716][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_34" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_34.uasset" SILENT=true
+[2019.08.31-00.47.50:721][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_3434090892449AD7C63823A093EB176880.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_34.uasset'
+[2019.08.31-00.47.50:793][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_35" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_35.uasset" SILENT=true
+[2019.08.31-00.47.50:798][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_35FC99EED647F7D5A66D4BFCA8014D8BCC.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_35.uasset'
+[2019.08.31-00.47.50:868][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_36" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_36.uasset" SILENT=true
+[2019.08.31-00.47.50:873][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_3694EBC7324979D1CA6D1377803DF9A87E.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_36.uasset'
+[2019.08.31-00.47.50:945][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_37" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_37.uasset" SILENT=true
+[2019.08.31-00.47.50:950][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_370A19FDC04AF5E77AA0D018A0C69CE230.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_37.uasset'
+[2019.08.31-00.47.51:019][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_38" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_38.uasset" SILENT=true
+[2019.08.31-00.47.51:023][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_38567A5B3542A6D52C9A30C5BCF6057A30.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_38.uasset'
+[2019.08.31-00.47.51:094][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_39" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_39.uasset" SILENT=true
+[2019.08.31-00.47.51:099][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_3972B67B8049A67812A869C0A3366A8104.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_39.uasset'
+[2019.08.31-00.47.51:168][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_4" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_4.uasset" SILENT=true
+[2019.08.31-00.47.51:173][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_40763B52F41091A537E480DA96890CDFD.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_4.uasset'
+[2019.08.31-00.47.51:242][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_40" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_40.uasset" SILENT=true
+[2019.08.31-00.47.51:246][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_40C1A4018442A5C548320AF0BC4905EFBA.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_40.uasset'
+[2019.08.31-00.47.51:310][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_41" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_41.uasset" SILENT=true
+[2019.08.31-00.47.51:315][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_41B72E870647CD636B4EC5C68FEA589CBD.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_41.uasset'
+[2019.08.31-00.47.51:386][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_42" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_42.uasset" SILENT=true
+[2019.08.31-00.47.51:391][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_42780763B549E6527EFF3BD78EDE6D24D4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_42.uasset'
+[2019.08.31-00.47.51:458][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_43" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_43.uasset" SILENT=true
+[2019.08.31-00.47.51:463][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_4340CDEE26470CD0AF1BDEF79906688EE7.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_43.uasset'
+[2019.08.31-00.47.51:525][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_44" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_44.uasset" SILENT=true
+[2019.08.31-00.47.51:530][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_444C6B1D87414E3CE65AB31D975B5B02B3.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_44.uasset'
+[2019.08.31-00.47.51:595][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_45" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_45.uasset" SILENT=true
+[2019.08.31-00.47.51:599][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_4532D5DB124520C587DED08BBB1108E8E6.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_45.uasset'
+[2019.08.31-00.47.51:670][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_46" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_46.uasset" SILENT=true
+[2019.08.31-00.47.51:675][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_46CB786F1543D7EFFF8C40108CF049BF85.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_46.uasset'
+[2019.08.31-00.47.51:742][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_47" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_47.uasset" SILENT=true
+[2019.08.31-00.47.51:746][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_475533766342BAC50A357241B200F8CF36.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_47.uasset'
+[2019.08.31-00.47.51:820][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_48" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_48.uasset" SILENT=true
+[2019.08.31-00.47.51:825][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_481180F5D6441E3373A99427AE82D9E25B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_48.uasset'
+[2019.08.31-00.47.51:894][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_49" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_49.uasset" SILENT=true
+[2019.08.31-00.47.51:898][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_49E2A8C40B46DC169E3AD0079962616AC0.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_49.uasset'
+[2019.08.31-00.47.51:969][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_5" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_5.uasset" SILENT=true
+[2019.08.31-00.47.51:973][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_582B7DE68413B6EB1CE895DA61307BB24.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_5.uasset'
+[2019.08.31-00.47.52:044][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_50" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_50.uasset" SILENT=true
+[2019.08.31-00.47.52:049][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_5083FA21814871AA31FDFC7A9F2FFF2104.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_50.uasset'
+[2019.08.31-00.47.52:119][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_51" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_51.uasset" SILENT=true
+[2019.08.31-00.47.52:123][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_511317BEA640D2B56946DA9B90887C4347.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_51.uasset'
+[2019.08.31-00.47.52:194][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_52" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_52.uasset" SILENT=true
+[2019.08.31-00.47.52:199][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_52191652D640B0B5979AC6448B058639F2.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_52.uasset'
+[2019.08.31-00.47.52:259][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_53" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_53.uasset" SILENT=true
+[2019.08.31-00.47.52:263][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_53324F52D448FA688C509FCBA23FB83B0D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_53.uasset'
+[2019.08.31-00.47.52:325][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_54" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_54.uasset" SILENT=true
+[2019.08.31-00.47.52:330][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_54632FE8AF4EF09584BBE03FB4D4E36390.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_54.uasset'
+[2019.08.31-00.47.52:391][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_55" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_55.uasset" SILENT=true
+[2019.08.31-00.47.52:396][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_55B088C98941E58D72491BB988592C67EA.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_55.uasset'
+[2019.08.31-00.47.52:459][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_56" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_56.uasset" SILENT=true
+[2019.08.31-00.47.52:463][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_56A46DAA4E4641A9AE4CCC7BB707C13DB1.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_56.uasset'
+[2019.08.31-00.47.52:526][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_57" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_57.uasset" SILENT=true
+[2019.08.31-00.47.52:530][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_571FBC2F414BA8F65831B7DCB8B9554D5E.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_57.uasset'
+[2019.08.31-00.47.52:592][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_58" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_58.uasset" SILENT=true
+[2019.08.31-00.47.52:596][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_582E64224B45140E5C7E0E43AA2208F904.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_58.uasset'
+[2019.08.31-00.47.52:658][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_59" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_59.uasset" SILENT=true
+[2019.08.31-00.47.52:663][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_592ABDF216404DEDDFCADB9A9A7AABEA58.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_59.uasset'
+[2019.08.31-00.47.52:726][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_6" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_6.uasset" SILENT=true
+[2019.08.31-00.47.52:730][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_6B78156D947F33F491164BA9F7E2AD741.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_6.uasset'
+[2019.08.31-00.47.52:813][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_60" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_60.uasset" SILENT=true
+[2019.08.31-00.47.52:818][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_60AB368EF449F0E5D17BD0CDA9BC893F59.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_60.uasset'
+[2019.08.31-00.47.52:885][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_61" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_61.uasset" SILENT=true
+[2019.08.31-00.47.52:891][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_61ACA4B99C4903EE48E5F380AAE37DC77B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_61.uasset'
+[2019.08.31-00.47.52:958][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_62" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_62.uasset" SILENT=true
+[2019.08.31-00.47.52:963][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_62B968554B4D4195FB9BE6938F05465933.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_62.uasset'
+[2019.08.31-00.47.53:026][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_63" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_63.uasset" SILENT=true
+[2019.08.31-00.47.53:031][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_6396D79B6A43D8EF7F0497E48976B56FD2.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_63.uasset'
+[2019.08.31-00.47.53:093][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_64" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_64.uasset" SILENT=true
+[2019.08.31-00.47.53:098][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_6455EE7E3C4E5A9AF324EA668EF294F00D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_64.uasset'
+[2019.08.31-00.47.53:170][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_65" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_65.uasset" SILENT=true
+[2019.08.31-00.47.53:174][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_65050157E24AC68B67B87B5792B190B68D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_65.uasset'
+[2019.08.31-00.47.53:242][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_66" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_66.uasset" SILENT=true
+[2019.08.31-00.47.53:246][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_666E7AF10F4753113CF3BD2FA8FD2C78A3.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_66.uasset'
+[2019.08.31-00.47.53:309][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_67" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_67.uasset" SILENT=true
+[2019.08.31-00.47.53:313][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_67A085BC0B473ECA14621E31AF403BECB3.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_67.uasset'
+[2019.08.31-00.47.53:375][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_68" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_68.uasset" SILENT=true
+[2019.08.31-00.47.53:380][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_68F62E0A564D82864275E73C954F564F76.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_68.uasset'
+[2019.08.31-00.47.53:443][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_69" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_69.uasset" SILENT=true
+[2019.08.31-00.47.53:448][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_692F6659B94C3390691E92F8A5694ADECC.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_69.uasset'
+[2019.08.31-00.47.53:508][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_7" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_7.uasset" SILENT=true
+[2019.08.31-00.47.53:513][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_74500AB984F35DBB62272C88135F4D2A4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_7.uasset'
+[2019.08.31-00.47.53:586][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_70" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_70.uasset" SILENT=true
+[2019.08.31-00.47.53:590][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_70E9E76EDA4E4E06D8BD7D0F9FA3BE740E.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_70.uasset'
+[2019.08.31-00.47.53:662][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_71" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_71.uasset" SILENT=true
+[2019.08.31-00.47.53:667][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_71D77A1B924A6D5B4739CB1CBC93C62A20.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_71.uasset'
+[2019.08.31-00.47.53:735][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_72" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_72.uasset" SILENT=true
+[2019.08.31-00.47.53:740][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_72324C5397416963761BB5B3A9AD62400D.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_72.uasset'
+[2019.08.31-00.47.53:809][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_73" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_73.uasset" SILENT=true
+[2019.08.31-00.47.53:814][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_7360268116463BE151133AD18550667BF3.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_73.uasset'
+[2019.08.31-00.47.53:885][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_74" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_74.uasset" SILENT=true
+[2019.08.31-00.47.53:890][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_74D236D4134180A2AC203CCB96F358637B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_74.uasset'
+[2019.08.31-00.47.53:958][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_75" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_75.uasset" SILENT=true
+[2019.08.31-00.47.53:963][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_75A540F36D497AA39C6A2ACBB2603D34A4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_75.uasset'
+[2019.08.31-00.47.54:026][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_76" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_76.uasset" SILENT=true
+[2019.08.31-00.47.54:030][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_764F07ECBD4F8AB18195CB14B17A9E0B3B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_76.uasset'
+[2019.08.31-00.47.54:092][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_77" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_77.uasset" SILENT=true
+[2019.08.31-00.47.54:096][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_771CB313DA48924860D4C1E5811A3384E4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_77.uasset'
+[2019.08.31-00.47.54:158][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_78" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_78.uasset" SILENT=true
+[2019.08.31-00.47.54:163][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_781C141DCE45231760C7256C86D9A49A3B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_78.uasset'
+[2019.08.31-00.47.54:226][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_79" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_79.uasset" SILENT=true
+[2019.08.31-00.47.54:230][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_798645691B44F07EBC2D4F49A48E957FF2.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_79.uasset'
+[2019.08.31-00.47.54:293][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_8" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_8.uasset" SILENT=true
+[2019.08.31-00.47.54:297][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_854435204426033EA3AC1408F6C86A015.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_8.uasset'
+[2019.08.31-00.47.54:370][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_80" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_80.uasset" SILENT=true
+[2019.08.31-00.47.54:375][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_807C6AE3084061C5F8E912ABAE0F13D389.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_80.uasset'
+[2019.08.31-00.47.54:442][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_81" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_81.uasset" SILENT=true
+[2019.08.31-00.47.54:446][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_81B2DA1AD6408D2F5CB210C38255E2F6E4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_81.uasset'
+[2019.08.31-00.47.54:510][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_82" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_82.uasset" SILENT=true
+[2019.08.31-00.47.54:514][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_8277240B174A9B500B4C4CBB8535B75237.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_82.uasset'
+[2019.08.31-00.47.54:578][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_83" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_83.uasset" SILENT=true
+[2019.08.31-00.47.54:582][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_831D1D73EE42689DA41BA11596AAFC9FB2.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_83.uasset'
+[2019.08.31-00.47.54:652][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_84" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_84.uasset" SILENT=true
+[2019.08.31-00.47.54:657][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_845F1791CD471ADD4759574CB5D551EA58.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_84.uasset'
+[2019.08.31-00.47.54:728][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_85" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_85.uasset" SILENT=true
+[2019.08.31-00.47.54:732][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_85C502127E444E873AB04FB7BBF69D67BA.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_85.uasset'
+[2019.08.31-00.47.54:802][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_86" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_86.uasset" SILENT=true
+[2019.08.31-00.47.54:806][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_8680554507479C5B252A34DF98C6710332.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_86.uasset'
+[2019.08.31-00.47.54:876][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_87" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_87.uasset" SILENT=true
+[2019.08.31-00.47.54:881][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_8785A882314B3F4DFF7D9ED98F7CCDD1B4.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_87.uasset'
+[2019.08.31-00.47.54:952][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_88" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_88.uasset" SILENT=true
+[2019.08.31-00.47.54:956][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_88B038E2DB47BE8BED9DB38882826BCA89.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_88.uasset'
+[2019.08.31-00.47.55:027][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_89" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_89.uasset" SILENT=true
+[2019.08.31-00.47.55:032][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_895ECBFD854374B03CC7796F83BB239E43.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_89.uasset'
+[2019.08.31-00.47.55:092][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_9" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_9.uasset" SILENT=true
+[2019.08.31-00.47.55:097][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_9691D59024D3A122D3916EFBCC8384C5B.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_9.uasset'
+[2019.08.31-00.47.55:168][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_90" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_90.uasset" SILENT=true
+[2019.08.31-00.47.55:173][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_90AFF5674B460B23DE8765E78F7425C46A.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_90.uasset'
+[2019.08.31-00.47.55:242][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_91" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_91.uasset" SILENT=true
+[2019.08.31-00.47.55:247][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_915D770A334093B50DE119618125A8E8A1.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_91.uasset'
+[2019.08.31-00.47.55:319][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_92" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_92.uasset" SILENT=true
+[2019.08.31-00.47.55:323][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_92DEA3EC3E4427A5632F26AF9D49E6D4B6.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_92.uasset'
+[2019.08.31-00.47.55:392][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_93" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_93.uasset" SILENT=true
+[2019.08.31-00.47.55:396][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_934B261C6F49C48BC0BFB9C89734910104.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_93.uasset'
+[2019.08.31-00.47.55:459][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_94" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_94.uasset" SILENT=true
+[2019.08.31-00.47.55:463][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_9459CAF8C64763D4B92C98AAA86D52BFA1.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_94.uasset'
+[2019.08.31-00.47.55:525][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor1_Sprite_95" FILE="../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_95.uasset" SILENT=true
+[2019.08.31-00.47.55:529][ 14]LogSavePackage: Moving '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Saved/Actor1_Sprite_95D1A2285F4F786BF1926C51AFADE078E6.tmp' to '../../../../../../Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/Actor1_Sprite_95.uasset'
+[2019.08.31-00.47.55:599][ 14]LogSlate: Window 'ProjectJanus - Unreal Editor' being destroyed
+[2019.08.31-00.47.56:019][ 15]Cmd: QUIT_EDITOR
+[2019.08.31-00.47.56:054][ 15]LogExit: Preparing to exit.
+[2019.08.31-00.47.57:377][ 15]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Terror/Documents/GitHub/Project-Janus/ProjectJanus/Content/', and we were unable to create a new request.
+[2019.08.31-00.47.57:393][ 15]LogExit: Editor shut down
+[2019.08.31-00.47.57:394][ 15]LogExit: Transaction tracking system shut down
+[2019.08.31-00.47.57:621][ 15]LogExit: Object subsystem successfully closed.
+[2019.08.31-00.47.57:633][ 15]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.31-00.47.57:637][ 15]LogD3D11RHI: Shutdown
+[2019.08.31-00.47.57:637][ 15]LogD3D11RHI: CleanupD3DDevice
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.31-00.47.57:637][ 15]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.31-00.47.57:707][ 15]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.31-00.47.57:720][ 15]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (656)
+[2019.08.31-00.47.57:720][ 15]LogModuleManager: Shutting down and abandoning module SceneOutliner (654)
+[2019.08.31-00.47.57:720][ 15]LogModuleManager: Shutting down and abandoning module AddContentDialog (652)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module WidgetCarousel (651)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module EditorWidgets (648)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module CollectionManager (646)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module StatsViewer (644)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module FoliageEdit (642)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module LandscapeEditor (640)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module MeshPaintMode (638)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (636)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module ActorPickerMode (634)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module GeometryMode (632)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module TextureAlignMode (630)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module BspMode (628)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (626)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (624)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module AutomationWorker (622)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module OculusMR (620)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (618)
+[2019.08.31-00.47.57:721][ 15]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (616)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (614)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module PlacementMode (613)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MaterialEditor (612)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (608)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (606)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (604)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (602)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (600)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module WebMMedia (598)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (596)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (594)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module SequenceRecorder (593)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (590)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (588)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (586)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (584)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (582)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (580)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (578)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (576)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (574)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (572)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (570)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module CharacterAI (568)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module SmartSnapping (566)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module SessionServices (564)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module MeshPaint (562)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ViewportSnapping (560)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ViewportInteraction (558)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module ClothPainter (556)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (555)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module LogVisualizer (552)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module IntroTutorials (550)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (549)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (546)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (544)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (542)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (540)
+[2019.08.31-00.47.57:722][ 15]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (539)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (536)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (534)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (532)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (530)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (528)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module InputBindingEditor (526)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module MergeActors (524)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (522)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module LocalizationService (521)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module HardwareTargeting (518)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (516)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module UndoHistory (514)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module XmlParser (512)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module Blutility (510)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (508)
+[2019.08.31-00.47.58:729][ 15]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (507)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (504)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module SettingsEditor (502)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module ProjectLauncher (500)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module SessionFrontend (498)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module ProfilerClient (496)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module DeviceManager (494)
+[2019.08.31-00.47.58:730][ 15]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (493)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module AutomationController (490)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module AutomationWindow (488)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module Layers (486)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (484)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module DetailCustomizations (482)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module PackagesDialog (480)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (478)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module Persona (476)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (475)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module AnimGraph (473)
+[2019.08.31-00.47.58:780][ 15]LogModuleManager: Shutting down and abandoning module Kismet (470)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module GraphEditor (468)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module ClassViewer (466)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module Toolbox (464)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module ModuleUI (462)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module MovieSceneTools (460)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module OutputLog (458)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module GammaUI (456)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module Documentation (454)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module LiveCoding (452)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module LevelSequence (450)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (448)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module MovieScene (446)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (444)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module LauncherPlatform (442)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module AnalyticsET (440)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module PortalServices (438)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module PortalRpc (436)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module MessagingRpc (434)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module AIModule (432)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module GameplayDebugger (431)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module AITestSuite (429)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module NavigationSystem (427)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module DesktopPlatform (424)
+[2019.08.31-00.47.58:781][ 15]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (422)
+[2019.08.31-00.47.58:784][ 15]LogModuleManager: Shutting down and abandoning module ProfilerService (420)
+[2019.08.31-00.47.58:812][ 15]LogModuleManager: Shutting down and abandoning module TaskGraph (418)
+[2019.08.31-00.47.58:812][ 15]LogModuleManager: Shutting down and abandoning module SteamVRController (416)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (414)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (412)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module OculusEditor (410)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module OculusInput (408)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (406)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module EditableMesh (404)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (402)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module CableComponent (400)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AudioCapture (398)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (396)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module LinearTimecode (386)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module ImgMedia (384)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (382)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (380)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (378)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module HTML5Networking (376)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (372)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module BackChannel (370)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AppleVision (368)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (366)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AppleImageUtils (364)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AlembicImporter (362)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module AlembicLibrary (361)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (359)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module VariantManagerContent (354)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (352)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (350)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module PluginBrowser (348)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (346)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (344)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.08.31-00.47.58:813][ 15]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ConcertSyncClientLibrary (324)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ConcertUICore (322)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (320)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ConcertFrontend (318)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module SignificanceManager (300)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module ActorSequence (290)
+[2019.08.31-00.47.58:814][ 15]LogModuleManager: Shutting down and abandoning module UdpMessaging (288)
+[2019.08.31-00.47.58:914][ 15]LogModuleManager: Shutting down and abandoning module TcpMessaging (286)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (284)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (282)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (280)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (278)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapController (276)
+[2019.08.31-00.47.59:014][ 15]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module MagicLeapAR (274)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module AugmentedReality (273)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2019.08.31-00.47.59:014][ 15]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2019.08.31-00.47.59:015][ 15]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2019.08.31-00.47.59:016][ 15]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2019.08.31-00.47.59:016][ 15]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2019.08.31-00.47.59:016][ 15]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2019.08.31-00.47.59:016][ 15]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2019.08.31-00.47.59:017][ 15]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (246)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module ConcertTransport (244)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module Concert (242)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.31-00.47.59:019][ 15]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.31-00.47.59:020][ 15]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.31-00.47.59:022][ 15]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.31-00.47.59:023][ 15]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.31-00.47.59:127][ 15]LogDerivedDataCache: Shutdown
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.31-00.47.59:127][ 15]LogXGEController: Cleaning working directory: C:/Users/Terror/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.31-00.47.59:127][ 15]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.31-00.47.59:128][ 15]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.31-00.47.59:128][ 15]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.31-00.47.59:128][ 15]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.31-00.47.59:128][ 15]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.31-00.47.59:128][ 15]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.31-00.47.59:129][ 15]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.31-00.47.59:129][ 15]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.31-00.47.59:130][ 15]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.31-00.47.59:130][ 15]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.31-00.47.59:136][ 15]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.31-00.47.59:137][ 15]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.31-00.47.59:137][ 15]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.31-00.47.59:138][ 15]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.31-00.47.59:138][ 15]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.31-00.47.59:167][ 15]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.31-00.47.59:167][ 15]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.31-00.47.59:167][ 15]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82FF7491-40A8-6F54-87A4-1F87FAF392E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=fd24d2c240b8e19f2d960981c457beda%7Ca6bcd34811c3464eafdb7a03e00ee3fc%7C950806dc-af5b-4a41-bd9c-db68faa9b865&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.31-00.47.59:201][ 15]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.31-00.47.59:204][ 15]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.31-00.47.59:206][ 15]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.31-00.47.59:212][ 15]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.31-00.47.59:212][ 15]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.31-00.47.59:213][ 15]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.31-00.47.59:213][ 15]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.31-00.47.59:213][ 15]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.31-00.47.59:213][ 15]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.31-00.47.59:213][ 15]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.31-00.47.59:214][ 15]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.31-00.47.59:215][ 15]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.31-00.47.59:226][ 15]LogExit: Exiting.
+[2019.08.31-00.47.59:239][ 15]Log file closed, 08/30/19 20:47:59
